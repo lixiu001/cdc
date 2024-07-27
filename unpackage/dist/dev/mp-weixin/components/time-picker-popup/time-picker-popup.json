@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "xs-popup": "/components/popup/xs-poup"
+  },
+  "component": true
+}
